@@ -18,7 +18,10 @@
   "homepage": "https://github.com/jondionowens/react-animation#readme",
   "dependencies": {
     "react": "^16.6.0",
-    "react-dom": "^16.6.0"
+    "react-anime": "^2.2.0",
+    "react-dom": "^16.6.0",
+    "react-transition-group": "^1.2.1",
+    "uniqueid": "^1.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.2",
